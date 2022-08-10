@@ -2,6 +2,9 @@
   "$schema": "./node_modules/nx/schemas/workspace-schema.json",
   "version": 2,
   "projects": {
+    "components": "libs/components",
+    "components-e2e": "apps/components-e2e",
+    "dao-backend": "apps/dao-backend",
     "dao-frontend": "apps/dao-frontend",
     "dao-frontend-e2e": "apps/dao-frontend-e2e"
   }

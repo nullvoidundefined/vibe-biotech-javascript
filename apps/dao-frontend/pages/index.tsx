@@ -1,3 +1,4 @@
+import {Button} from "@vibe-biotech/components"
 import styled from 'styled-components';
 
 const StyledPage = styled.div`
@@ -13,6 +14,7 @@ export function Index() {
    */
   return (
     <StyledPage>
+      <Button>Foo</Button>
       <div className="wrapper">
         <div className="container">
           <div id="welcome">
