@@ -1,0 +1,8 @@
+{
+  "$schema": "./node_modules/nx/schemas/workspace-schema.json",
+  "version": 2,
+  "projects": {
+    "dao-frontend": "apps/dao-frontend",
+    "dao-frontend-e2e": "apps/dao-frontend-e2e"
+  }
+}
