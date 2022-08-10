@@ -4,8 +4,10 @@
   "projects": {
     "components": "libs/components",
     "components-e2e": "apps/components-e2e",
+    "constants": "libs/constants",
     "dao-backend": "apps/dao-backend",
     "dao-frontend": "apps/dao-frontend",
-    "dao-frontend-e2e": "apps/dao-frontend-e2e"
+    "dao-frontend-e2e": "apps/dao-frontend-e2e",
+    "types": "libs/types"
   }
 }
