@@ -1,4 +1,4 @@
-import {Button} from "@vibe-biotech/components"
+import { Button } from '@vibe-biotech-javascript/design-system';
 import styled from 'styled-components';
 
 const StyledPage = styled.div`

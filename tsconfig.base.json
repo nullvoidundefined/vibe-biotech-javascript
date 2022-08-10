@@ -16,8 +16,10 @@
     "baseUrl": ".",
     "paths": {
       "@vibe-biotech-javascript/constants": ["libs/constants/src/index.ts"],
-      "@vibe-biotech-javascript/types": ["libs/types/src/index.ts"],
-      "@vibe-biotech/components": ["libs/components/src/index.ts"]
+      "@vibe-biotech-javascript/design-system": [
+        "libs/design-system/src/index.ts"
+      ],
+      "@vibe-biotech-javascript/types": ["libs/types/src/index.ts"]
     }
   },
   "exclude": ["node_modules", "tmp"]
